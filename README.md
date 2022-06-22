@@ -1,17 +1,27 @@
+![Shellimate logo](https://i.imgur.com/Oh3pbTx.png)
+
 # Shellimate
 
 This is completely useless but it's pretty cool anyway so yeah
 
-## Python Version
+## Additional Dependencies
 
-You're gonna need Python 3.10.2, most likely. That's the version I use to develop Shellimate, and that's not changing without a notice. [Here.](https://www.python.org/downloads/release/python-3102/)
+You're gonna need [Python 3.10.2](https://www.python.org/downloads/release/python-3102/). That's the version I use to develop Shellimate, and there's a pretty slim chance it's changing.
 
-## How-To
+## What's Coming
 
-Shellimate's first public beta is still in the works, so this isn't that important.
+In the first alpha, you'll be able to make the animations and get a save code to paste somewhere. Hopefully saves won't require you copying a bunch of data by the time beta releases.
 
-## Security
+Plus, many new features before full release, such as:
+- Selectable framerates
+- Selectable canvas sizes
+- Selectable color depths
+- Subtitles
 
-Not planning to add any features that communicate with online databases, but I'll update this section *should that time come.*
+## Pitch In
 
-Don't download this yet, it's literally just a markdown file. I'll update this repo when the beta is ready.
+If you want to modify the code, it'll be out soon so you can fork it. Keep in mind Shellimate is based on CPython 3.10.2
+
+## Bugs N' Stuff
+
+Found a [buggo?](https://github.com/Beatknight-The-Programmer/shellimate/issues) Have a [suggestion?](https://github.com/Beatknight-The-Programmer/shellimate/issues)
